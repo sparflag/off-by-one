@@ -1,0 +1,7 @@
+slug: off-by-one
+title: Off By One
+category: binary exploitation
+difficulty: medium
+points: 300
+codec: fernet
+repo_url: https://github.com/sparflag/off-by-one
